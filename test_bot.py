@@ -22,6 +22,9 @@ name = ""
 def hello():
     pass
 
+def ismoil_func():
+    pass
+
 def user_name(message):
     global name
     name = message.text.strip()
