@@ -19,6 +19,8 @@ def start(message):
 
 name = ""
 
+def hello():
+    pass
 
 def user_name(message):
     global name
